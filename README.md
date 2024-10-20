@@ -19,12 +19,12 @@ We aim to advance the state-of-the-art in data management through innovative tec
 Our research projects are driven by the need to manage and extract knowledge from vast amounts of data generated in areas such as healthcare, biology, finance, and public policy. Some of our recent projects include:
 
 - Data-Driven Chronic Obstructive Pulmonary Disease Study (COPD)
-- More research projects at ["Researcg"](https://cse.ucdenver.edu/~bdlab/research.html)
+- More research projects at ["Research"](https://cse.ucdenver.edu/~bdlab/research.html)
 
 ## Meet the Team
 
-The lab is led by Dr. Farnoush Banaei-Kashani, along with a team of passionate researchers and students. We are dedicated to pushing the boundaries of big data management.
+The lab is led by **Dr. Farnoush Banaei-Kashani**, along with a team of passionate researchers and students. We are dedicated to pushing the boundaries of big data management.
 
-## collaborating
+## Collaborating
 
 Interested in collaborating or learning more about our work? Check out our official website for more information and details ["Big Data Management and Mining Lab"](https://cse.ucdenver.edu/~bdlab)

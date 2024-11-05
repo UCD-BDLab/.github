@@ -1,30 +1,31 @@
-# CU-BigDataLab
+# UCD-BDLab
 
-✨ Welcome to the Big Data Management and Mining Laboratory at CU Denver! ✨
+Welcome to the Big Data Management and Mining Laboratory at CU Denver!
 
-Our lab is dedicated to cutting-edge research in big data management, focusing on the integration, analysis, and mining of large scale data to solve real world challenges across various domains.
+Our lab focuses on exploring various aspects of big data management, including the integration, analysis, and mining of large-scale data to address real-world challenges across different fields.
 
 ## Our Mission
 
-We aim to advance the state-of-the-art in data management through innovative techniques that support efficient, scalable, and reliable data processing. We work on:
+We aim to enhance data management practices by developing techniques that support efficient, scalable, and reliable data processing. Our areas of work include:
 
 - Big Data Integration and Analytics
 - Data Mining and Knowledge Discovery
-- Data Quality and Provenance
 - Distributed Data Systems
 - Machine Learning and AI for Big Data
 
 ## Current Projects
 
-Our research projects are driven by the need to manage and extract knowledge from vast amounts of data generated in areas such as healthcare, biology, finance, and public policy. Some of our recent projects include:
+Our research projects are centered around managing and extracting meaningful insights from the vast amounts of data generated in sectors such as healthcare, biology, finance, and public policy. Some of our ongoing projects include:
 
 - Data-Driven Chronic Obstructive Pulmonary Disease Study (COPD)
-- More research projects at ["Research"](https://cse.ucdenver.edu/~bdlab/research.html)
+- [More research projects](https://cse.ucdenver.edu/~bdlab/research.html)
+- [Our legacy account](https://github.com/bdlab-ucd)
 
 ## Meet the Team
 
-The lab is led by **Dr. Farnoush Banaei-Kashani**, along with a team of passionate researchers and students. We are dedicated to pushing the boundaries of big data management.
+The lab is led by **Dr. Farnoush Banaei-Kashani** and includes a group of dedicated researchers and students who are committed to advancing big data management.
 
 ## Collaborating
 
-Interested in collaborating or learning more about our work? Check out our official website for more information and details ["Big Data Management and Mining Lab"](https://cse.ucdenver.edu/~bdlab)
+If you're interested in collaborating or would like to learn more about our work, please visit our [official website](https://cse.ucdenver.edu/~bdlab) for more information.
+
